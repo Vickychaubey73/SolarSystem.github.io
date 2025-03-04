@@ -111,7 +111,7 @@ Jamie Coulter
  
  body {
    overflow: hidden;
-   background: rgb(0, 0, 0);
+   background: url(bg.webp);
    height: 100vh;
    font-family: "Montserrat", sans-serif;
  }
